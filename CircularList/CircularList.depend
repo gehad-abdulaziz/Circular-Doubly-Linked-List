@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1730397008 source:c:\users\gehad\documents\second year\ds\codes\circularlist\circular.c
+	<stdio.h>
+	<stdlib.h>
+	"cicular.h"
+
+1730386520 c:\users\gehad\documents\second year\ds\codes\circularlist\cicular.h
+
+1730396159 source:c:\users\gehad\documents\second year\ds\codes\circularlist\main.c
+	<stdio.h>
+	"cicular.h"
+
